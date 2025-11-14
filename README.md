@@ -48,17 +48,14 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation and calculation
+![WhatsApp Image 2025-11-14 at 08 29 34_ead7331e](https://github.com/user-attachments/assets/962472a2-027d-40ae-81a9-9983beab8e3b)
 
-![b 2](https://github.com/user-attachments/assets/46e9c7d0-2064-4e92-89f0-89c6b6d7d38a)
-
-
-![b 3](https://github.com/user-attachments/assets/8a4e4051-747e-46d6-81c3-d560e3c024b7)
-
+![WhatsApp Image 2025-11-14 at 08 29 58_06499740](https://github.com/user-attachments/assets/9834de49-ddcc-4345-92bd-0984614d455d)
 
 
 output
 
-![b 1](https://github.com/user-attachments/assets/ac2388a5-f344-4469-a7f2-ca3e14f4dcbd)
+![WhatsApp Image 2025-11-14 at 08 30 19_417cc70d](https://github.com/user-attachments/assets/6f74f6ee-9111-4397-8aa8-fb06c075b8ca)
 
 
 Result:
